@@ -1,6 +1,3 @@
-# junior-data-analyst
-Portofolio dan perjalanan pembelajaran sebagai Analis Data Junior.
-
 # Junior Data Analyst
 
 Repository ini berisi dokumentasi pembelajaran, tugas, dan proyek yang saya kerjakan selama program magang/simulasi industri Data Analyst.
