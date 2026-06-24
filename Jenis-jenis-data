@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perbedaan Data Analyst, Data Scientist, dan Data Engineer</title>
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+            line-height: 1.8;
+        }
+
+        h1,h2,h3{
+            color:#333;
+        }
+
+        img{
+            max-width:100%;
+            height:auto;
+            border-radius:10px;
+        }
+
+        .separator{
+            text-align:center;
+            margin:20px 0;
+        }
+    </style>
+</head>
+<body>
+
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><b>Pendahuluan</b></span></span></p><h3 data-end="736" data-section-id="lszocz" data-start="721"><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqP4Hb7PW2I3nLiwAuEaLsibQOfRNWHh66SyO4vpnhyM6uESLCZ15VO1N8DM53k_WQfqSVM8hu8B3jvvdjO8dtRTTvPd8vTIRSPG39-aDcdJfvH0hlJXLnJs65WZAwfuCyNkHrHSWPsLJxwqLy6_xOjKIz5juIJUKEtN3O5b1cpbJ1IzdFrAh3v8JUFPZ/s738/3jenis.jpg" style="margin-left: 1em; margin-right: 1em;"><strike><img border="0" data-original-height="414" data-original-width="738" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqP4Hb7PW2I3nLiwAuEaLsibQOfRNWHh66SyO4vpnhyM6uESLCZ15VO1N8DM53k_WQfqSVM8hu8B3jvvdjO8dtRTTvPd8vTIRSPG39-aDcdJfvH0hlJXLnJs65WZAwfuCyNkHrHSWPsLJxwqLy6_xOjKIz5juIJUKEtN3O5b1cpbJ1IzdFrAh3v8JUFPZ/s320/3jenis.jpg" width="320" /></strike></a></div></h3>
+<p data-end="922" data-start="737"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Banyak orang menganggap Data Analyst, Data Scientist, dan Data Engineer adalah profesi yang sama. Padahal ketiganya memiliki tugas dan tanggung jawab yang berbeda dalam pengolahan data.</span></span></span></span></p><p data-end="922" data-start="737"><br /></p>
+<h3 data-end="943" data-section-id="19pb9x" data-start="924"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">1. Analis Data</span></span></span></span></h3><div><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie10JvI-ZJCsmQB6YYq4Ph549jAOcYVXWaztJ0uIXKkLWpetFQHcVAFee_Jteh1fLoyi0e7gdYKx6sb-gmBIiVr3REe9xJWTpjlxS-R5uEY8rBzrmhREuxjw_hJYCXsuBR8GT4IEtq9uBEJ1jQ9SxJ1y-qkO2FXUgl9UcFNO9KzMp6ihhd4eNz7iPW5uTf/s597/analyst.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="335" data-original-width="597" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie10JvI-ZJCsmQB6YYq4Ph549jAOcYVXWaztJ0uIXKkLWpetFQHcVAFee_Jteh1fLoyi0e7gdYKx6sb-gmBIiVr3REe9xJWTpjlxS-R5uEY8rBzrmhREuxjw_hJYCXsuBR8GT4IEtq9uBEJ1jQ9SxJ1y-qkO2FXUgl9UcFNO9KzMp6ihhd4eNz7iPW5uTf/s320/analyst.jpg" width="320" /></a></div><div><br /></div>
+<p data-end="956" data-start="944"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tugas utama:</span></span></span></span></p>
+<ul data-end="1044" data-start="957">
+<li data-end="972" data-section-id="cmp1wz" data-start="957">Mengolah data
+</li>
+<li data-end="990" data-section-id="xemekg" data-start="973">
+Membuat laporan
+</li>
+<li data-end="1010" data-section-id="1rozbqj" data-start="991">
+Membuat dashboard
+</li>
+<li data-end="1044" data-section-id="4jcaby" data-start="1011">
+Memberikan insight untuk bisnis</li>
+</ul>
+<p data-end="1052" data-start="1046"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Peralatan:</span></span></span></span></p>
+<ul data-end="1087" data-start="1053">
+<li data-end="1060" data-section-id="171ry3j" data-start="1053">Excel
+</li>
+<li data-end="1066" data-section-id="1o4qo6" data-start="1061">
+SQL
+</li>
+<li data-end="1077" data-section-id="1td9vy4" data-start="1067">
+Power BI
+</li>
+<li data-end="1087" data-section-id="1cm0nxe" data-start="1078">
+Tableau</li>
+</ul><div><br /></div>
+<h3 data-end="1110" data-section-id="4avcle" data-start="1089"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">2. Data Ilmuwan</span></span></span></span></h3><div><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><br /></span></span></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL446WcQjdjwZtN7x3L2RFsYQdvZAWtbRyuyUsgJlMzSQODBc2c_yuB2bf9nkUdDhhhvxex2EBvQcTuYIr0yRKbcnfes-PXtJFaUfY9wV6IuqnOJ5pDMAkoDUbEQ8I2OXc029fZZT6cWwICTnvdT-AkxPni88vC_JN7dD4DtKUKlvk6p7SW4cuBogvp5zR/s600/scientist.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="400" data-original-width="600" height="213" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL446WcQjdjwZtN7x3L2RFsYQdvZAWtbRyuyUsgJlMzSQODBc2c_yuB2bf9nkUdDhhhvxex2EBvQcTuYIr0yRKbcnfes-PXtJFaUfY9wV6IuqnOJ5pDMAkoDUbEQ8I2OXc029fZZT6cWwICTnvdT-AkxPni88vC_JN7dD4DtKUKlvk6p7SW4cuBogvp5zR/s320/scientist.jpg" width="320" /></a></div><div><br /></div>
+<p data-end="1123" data-start="1111"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tugas utama:</span></span></span></span></p>
+<ul data-end="1213" data-start="1124">
+<li data-end="1157" data-section-id="8hvzya" data-start="1124"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">
+Menganalisis data yang kompleks
+</span></span></span></span></li>
+<li data-end="1182" data-section-id="1jv5j3v" data-start="1158"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">
+Membuat model prediksi
+</span></span></span></span></li>
+<li data-end="1201" data-section-id="d3mavt" data-start="1183"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">
+Machine Learning
+</span></span></span></span></li>
+<li data-end="1213" data-section-id="xa44s6" data-start="1202"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">
+Statistik
+</span></span></span></span></li>
+</ul>
+<p data-end="1221" data-start="1215"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Peralatan:</span></span></span></span></p>
+<ul data-end="1263" data-start="1222">
+<li data-end="1230" data-section-id="2q6buk" data-start="1222">Python
+</li>
+<li data-end="1234" data-section-id="37435m" data-start="1231">
+R
+</li>
+<li data-end="1263" data-section-id="p7xqw5" data-start="1235">
+Machine Learning Framework</li>
+</ul><div><br /></div>
+<h3 data-end="1285" data-section-id="lsj68i" data-start="1265"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">3. Data Engineer</span></span></span></span></h3><div><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><br /></span></span></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcYulsWhjRLfVz1GyRiDcLwioZKRczdbFxUqYcnC-cF-nyZcpvqvWIT9z_7FPb4M4wNYdITXNOlXGWbDpiHMfgu3sqiR9gDLd5EcOcbFzGQrFq_WlllL96GG0VJhxKTsNVgdJ63MHWGD7cx8Jd-wWdSwfqr6MWSGpDf4aBQDigPykBFOqlUJx2lNXnQRYY/s738/engineer.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="402" data-original-width="738" height="174" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcYulsWhjRLfVz1GyRiDcLwioZKRczdbFxUqYcnC-cF-nyZcpvqvWIT9z_7FPb4M4wNYdITXNOlXGWbDpiHMfgu3sqiR9gDLd5EcOcbFzGQrFq_WlllL96GG0VJhxKTsNVgdJ63MHWGD7cx8Jd-wWdSwfqr6MWSGpDf4aBQDigPykBFOqlUJx2lNXnQRYY/s320/engineer.png" width="320" /></a></div><div><br /></div>
+<p data-end="1298" data-start="1286"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tugas utama:</span></span></span></span></p>
+<ul data-end="1381" data-start="1299">
+<li data-end="1322" data-section-id="739prt" data-start="1299">Membangun sistem data
+</li>
+<li data-end="1357" data-section-id="4185d1" data-start="1323">
+Menyiapkan data untuk dianalisis
+</li>
+<li data-end="1381" data-section-id="7djptp" data-start="1358">
+Membuat data pipeline</li>
+</ul>
+<p data-end="1389" data-start="1383"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Peralatan:</span></span></span></span></p>
+<ul data-end="1445" data-start="1390">
+<li data-end="1395" data-section-id="1o4qo6" data-start="1390">SQL
+</li>
+<li data-end="1404" data-section-id="2q6buk" data-start="1396">
+Python
+</li>
+<li data-end="1419" data-section-id="14yn1gt" data-start="1405">
+Apache Spark
+</li>
+<li data-end="1428" data-section-id="1moom2d" data-start="1420">
+Hadoop
+</li>
+<li data-end="1445" data-section-id="11hk91i" data-start="1429">
+Cloud Platform</li>
+</ul>
+<h3 data-end="1461" data-section-id="lifoux" data-start="1447"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Kesimpulan</span></span></span></span></h3>
+<p data-end="1701" data-start="1462"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Data Analyst fokus pada dan pelaporan analisis data, Data Scientist fokus pada prediksi dan model statistik, sedangkan Data Engineer bertugas menyiapkan dan mengelola infrastruktur data agar dapat digunakan oleh tim lainnya.</span></span></span></span><br /></p>
+
+</body>
+</html>
