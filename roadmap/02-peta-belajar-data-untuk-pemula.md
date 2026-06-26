@@ -268,4 +268,4 @@ Kunci utama dalam belajar data adalah **konsistensi, praktik, dan dokumentasi**.
 
 # Baca juga:
 
-👉 [Peta Belajar Data untuk Pemula]([https://namablogmu.blogspot.com/2026/06/peta-belajar-data-untuk-pemula.html](https://junior-data-analyst.blogspot.com/2026/06/peta-belajar-data-untuk-pemula-harus.html))
+👉 [Peta Belajar Data untuk Pemula]((https://junior-data-analyst.blogspot.com/2026/06/peta-belajar-data-untuk-pemula-harus.html))
