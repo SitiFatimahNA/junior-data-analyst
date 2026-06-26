@@ -30,6 +30,9 @@ Folder `roadmap/` berisi artikel dan dokumentasi pembelajaran awal terkait bidan
 - **02-peta-belajar-data-untuk-pemula.md**  
   Membahas peta belajar data untuk pemula, mulai dari dasar data, Excel, SQL, Python, visualisasi data, hingga arah pengembangan karier.
 
+- **03-bahasa-pemrograman-untuk-data.md**  
+  Mengenal bahasa pemrograman yang digunakan di dunia data seperti SQL, Python, R, Scala, Java, Julia, dan MATLAB.
+
 ---
 
 ## Rencana Pengembangan Repository
