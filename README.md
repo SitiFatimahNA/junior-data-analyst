@@ -33,6 +33,9 @@ Folder `roadmap/` berisi artikel dan dokumentasi pembelajaran awal terkait bidan
 - **03-bahasa-pemrograman-untuk-data.md**  
   Mengenal bahasa pemrograman yang digunakan di dunia data seperti SQL, Python, R, Scala, Java, Julia, dan MATLAB.
 
+- **04-belajar-data-itu-apa-saja.md**  
+  Membahas materi-materi yang perlu dipelajari untuk memulai karier di bidang data, mulai dari konsep dasar data, Excel, SQL, database, Python, statistik, visualisasi data, hingga membangun portofolio.
+
 ---
 
 ## Rencana Pengembangan Repository
