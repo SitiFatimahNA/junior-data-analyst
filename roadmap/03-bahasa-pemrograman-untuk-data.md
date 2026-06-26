@@ -318,3 +318,7 @@ Yang terpenting bukan menguasai banyak bahasa pemrograman, tetapi memahami kapan
 - Dokumentasi NumPy
 - Dokumentasi Scikit-Learn
 - Dokumentasi Apache Spark
+
+# Baca juga:
+
+👉 [Peta Belajar Data untuk Pemula](https://junior-data-analyst.blogspot.com/2026/06/peta-belajar-data-untuk-pemula-harus.html)
