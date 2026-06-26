@@ -265,3 +265,7 @@ Tahap ini sebaiknya dipelajari setelah benar-benar menguasai **SQL, Python, dan 
 Belajar data tidak harus dimulai dari **Machine Learning** atau **Artificial Intelligence**. Langkah yang paling tepat adalah membangun fondasi terlebih dahulu melalui pemahaman dasar data, Excel, SQL, database, dan Python. Setelah fondasi tersebut kuat, proses mempelajari visualisasi data, statistik lanjutan, hingga Machine Learning akan menjadi jauh lebih mudah.
 
 Kunci utama dalam belajar data adalah **konsistensi, praktik, dan dokumentasi**. Dengan mengikuti roadmap yang terstruktur serta rutin mengerjakan proyek nyata, siapa pun dapat memulai perjalanan karier di bidang data dari nol hingga menjadi seorang profesional data yang kompeten.
+
+# Baca juga:
+
+👉 [Peta Belajar Data untuk Pemula]([https://namablogmu.blogspot.com/2026/06/peta-belajar-data-untuk-pemula.html](https://junior-data-analyst.blogspot.com/2026/06/peta-belajar-data-untuk-pemula-harus.html))
