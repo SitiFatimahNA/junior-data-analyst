@@ -152,3 +152,7 @@ Data Analyst, Data Scientist, dan Data Engineer sama-sama bekerja di bidang data
 - **Data Engineer** fokus pada infrastruktur, pipeline, dan pengelolaan data
 
 Bagi pemula, memahami perbedaan ketiga peran ini sangat penting agar proses belajar menjadi lebih terarah. Jika ingin memulai dari jalur yang paling dekat dengan kebutuhan bisnis dan analisis, maka **Data Analyst** sering menjadi titik awal yang baik.
+
+# Baca juga:
+
+👉 [Perbedaan Role Data](https://junior-data-analyst.blogspot.com/2026/06/mengenal-perbedaan-data-analyst-data.html)
