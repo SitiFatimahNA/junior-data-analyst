@@ -304,3 +304,7 @@ Belajar data bukan hanya mempelajari satu tools atau satu bahasa pemrograman. Di
 Dengan mempelajari materi secara bertahap dan konsisten, proses belajar akan menjadi lebih mudah dipahami serta membantu membangun fondasi yang kuat untuk berkarier sebagai **Data Analyst**, **Data Engineer**, maupun **Data Scientist**.
 
 Yang terpenting adalah tidak terburu-buru mengejar materi yang sulit. Bangunlah dasar yang kuat terlebih dahulu, kemudian tingkatkan kemampuan secara bertahap sesuai tujuan karier yang ingin dicapai.
+
+# Baca juga:
+
+👉 [Belajar Data Itu Apa Aja Sih? ](https://junior-data-analyst.blogspot.com/2026/06/bahasa-pemrograman-untuk-data-mana-yang.html)
