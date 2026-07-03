@@ -30,7 +30,6 @@ Seluruh materi, latihan, artikel, proyek, dashboard, serta dokumentasi kegiatan 
 # 👩‍💻 About Me
 
 | | |
-|---|---|
 | **Nama** | Siti Fatimah Nur Azzahra |
 | **Sekolah** | SMKN 6 Surakarta |
 | **Program Keahlian** | Rekayasa Perangkat Lunak (RPL) |
