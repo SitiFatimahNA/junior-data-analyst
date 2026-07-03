@@ -29,16 +29,13 @@ Seluruh materi, latihan, artikel, proyek, dashboard, serta dokumentasi kegiatan 
 
 # 👩‍💻 About Me
 
-| |
-|---|
+| | |
+|---|---|
 | **Nama** | Siti Fatimah Nur Azzahra |
 | **Sekolah** | SMKN 6 Surakarta |
-| **Program** | Praktik Kerja Lapangan |
+| **Program Keahlian** | Rekayasa Perangkat Lunak (RPL) |
 | **Role** | Junior Data Analyst |
-| **Batch** | 2026 |
-
----
-
+| **Batch** | PKL 2026 |
 # 🎯 Objectives
 
 Repository ini bertujuan untuk:
