@@ -54,24 +54,24 @@ Repository ini bertujuan untuk:
 - [x] Membuat GitHub Repository
 - [x] Membuat Blog
 - [x] Menulis Artikel Data
-- [ ] Git Documentation
+- [x] Git Documentation
 
 ---
 
 ## Week 2
-- [ ] Data Collection
-- [ ] Data Understanding
+- [x] Data Collection
+- [x] Data Understanding
 
 ---
 
 ## Week 3
-- [ ] Data Cleaning
-- [ ] Data Preparation
+- [x] Data Cleaning
+- [x] Data Preparation
 
 ---
 
 ## Week 4
-- [ ] Exploratory Data Analysis
+- [x] Exploratory Data Analysis
 
 ---
 
