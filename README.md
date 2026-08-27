@@ -17,281 +17,162 @@
 
 ---
 
-# 👋 About
+## 👋 About
 
 Selamat datang di repository **Junior Data Analyst**.
 
-Repository ini dibuat sebagai dokumentasi proses belajar selama mengikuti **Program Simulasi Industri Data Analyst** di **PT Edusoft Center Teknologi**.
+Repository ini berisi dokumentasi proses belajar selama mengikuti **Program Simulasi Industri Data Analyst** di **PT Edusoft Center Teknologi**, mencakup materi, latihan, artikel, dan project yang dikerjakan sepanjang program.
 
-Seluruh materi, latihan, artikel, proyek, dashboard, serta dokumentasi kegiatan PKL akan disimpan di repository ini sebagai **portfolio profesional**.
+Seluruh materi, artikel, dataset, dan project di repository ini disusun sebagai **portfolio profesional**.
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 | | |
 |---|---|
-| **Nama** | Siti Fatimah Nur Azzahra |
-| **Sekolah** | SMKN 6 Surakarta |
+| **Nama** | Siti Fatimah Nur Az-zahra |
+| **Sekolah** | SMK Negeri 6 Surakarta |
 | **Program Keahlian** | Rekayasa Perangkat Lunak (RPL) |
 | **Role** | Junior Data Analyst |
 | **Batch** | PKL 2026 |
 
-Repository ini bertujuan untuk:
+Tujuan repository ini:
 
-- Mendokumentasikan seluruh proses belajar selama PKL.
-- Mengembangkan kompetensi sebagai Junior Data Analyst.
-- Membangun portfolio profesional.
-- Menyimpan seluruh project dan dokumentasi.
-- Menjadi bukti kompetensi selama mengikuti Program Simulasi Industri.
-
----
-
-# 📚 Learning Roadmap
-
-## Week 1
-- [x] Orientasi Industri
-- [x] Membuat GitHub Repository
-- [x] Membuat Blog
-- [x] Menulis Artikel Data
-- [x] Git Documentation
+- Mendokumentasikan proses belajar selama PKL
+- Mengembangkan kompetensi sebagai Junior Data Analyst
+- Membangun portfolio profesional
+- Menjadi bukti kompetensi selama mengikuti Program Simulasi Industri
 
 ---
 
-## Week 2
-- [x] Data Collection
-- [x] Data Understanding
+## 📚 Learning Roadmap
+
+| Week | Materi | Status |
+|------|--------|--------|
+| 1 | Orientasi Industri, Setup GitHub & Tools, Menulis Artikel | ✅ Selesai |
+| 2 | Data Collection | ✅ Selesai |
+| 3–4 | Data Understanding, Data Cleaning & Preparation | ✅ Selesai |
+| 5 | Business Problem, SQL Analysis | ⬜ Belum |
+| 6 | Data Visualization, Dashboard | ⬜ Belum |
+| 7 | Exploratory Data Analysis (Advanced) | ✅ Selesai |
+| 8–9 | Problem Solving | ✅ Selesai |
+| Final | Final Project & Presentation | ⬜ Belum |
+
+> Catatan: sesuaikan tabel ini setiap minggu agar tetap mencerminkan progres folder yang sebenarnya ada di repo.
 
 ---
 
-## Week 3
-- [x] Data Cleaning
-- [x] Data Preparation
+## 🛠 Skills
+
+**Data**
+Data Collection · Data Preparation · Data Cleaning · Exploratory Data Analysis · Data Visualization
+
+**Database**
+SQL
+
+**Programming**
+Python
+
+**Visualization**
+Power BI · Tableau
+
+**Version Control**
+Git · GitHub
 
 ---
 
-## Week 4
-- [x] Exploratory Data Analysis
-
----
-
-## Week 5
-- [ ] Business Problem
-- [ ] SQL Analysis
-
----
-
-## Week 6
-- [ ] Data Visualization
-- [ ] Dashboard
-
----
-
-## Week 7
-- [ ] Final Project
-
----
-
-## Week 8
-- [ ] Presentation
-- [ ] Portfolio Review
-
----
-
-# 🛠 Skills
-
-## Data
-
-- Data Collection
-- Data Preparation
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-
-## Database
-
-- SQL
-
-## Programming
-
-- Python
-
-## Visualization
-
-- Power BI
-- Tableau
-
-## Version Control
-
-- Git
-- GitHub
-
----
-
-# 📖 Learning Materials
-
-## Fundamental Data
-
-- What is Data?
-- Data Types
-- Structured Data
-- Unstructured Data
-- Big Data
-- Data Lake
-- Data Warehouse
-
----
-
-## Artificial Intelligence
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Generative AI
-
----
-
-## Data Analysis
-
-- Data Collection
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Storytelling
-- Dashboard
-
----
-
-# 📝 Articles
-
-| No | Article | Status |
-|----|----------|--------|
-|1|What is Data?|✅|
-|2|Big Data|✅|
-|3|Data Lake|⬜|
-|4|Structured vs Unstructured Data|⬜|
-|5|Machine Learning|⬜|
-|6|Deep Learning|⬜|
-|7|Natural Language Processing|⬜|
-|8|Generative AI|⬜|
-
----
-
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```
-Junior-Data-Analyst
+junior-data-analyst
 │
 ├── README.md
 │
+├── week-01-orientasi-industri-setup-tools
+├── week-02-data-collection
+├── week-03-04-data-understanding-cleaning
+├── week-06-eda-basic
+├── week-07-eda-advanced
+├── week-08-09-problem-solving
+│
 ├── articles
-│
-├── notes
-│
+├── assets
+├── dashboards
 ├── datasets
-│
-├── sql
-│
-├── python
-│
-├── dashboard
-│
+├── notebooks
 ├── projects
-│
-├── presentations
-│
-└── certificates
+└── python
 ```
 
+> Sesuaikan blok ini dengan nama folder yang benar-benar ada di repo. Disarankan pakai format lowercase + dash (mis. `week-01-orientasi-industri`) agar konsisten dan aman untuk URL.
+
 ---
 
-# 🚀 Projects
+## 📝 Articles
+
+| No | Artikel | Status |
+|----|---------|--------|
+| 1 | What is Data? | ✅ |
+| 2 | Big Data | ✅ |
+| 3 | Data Lake | ⬜ |
+| 4 | Structured vs Unstructured Data | ⬜ |
+| 5 | Machine Learning | ⬜ |
+| 6 | Deep Learning | ⬜ |
+| 7 | Natural Language Processing | ⬜ |
+| 8 | Generative AI | ⬜ |
+
+---
+
+## 🚀 Projects
 
 | Project | Status |
+|---------|--------|
+| Mini Project 1 | ⬜ |
+| Mini Project 2 | ⬜ |
+| SQL Project | ⬜ |
+| EDA Project | ✅ |
+| Dashboard | ⬜ |
+| Final Project | ⬜ |
+
+---
+
+## 📈 Portfolio Progress
+
+| Komponen | Status |
 |----------|--------|
-|Mini Project 1|⬜|
-|Mini Project 2|⬜|
-|SQL Project|⬜|
-|EDA Project|⬜|
-|Dashboard|⬜|
-|Final Project|⬜|
+| GitHub Repository | ✅ |
+| Blog | ✅ |
+| Articles | 🟡 Sebagian |
+| Projects | 🟡 Sebagian |
+| Dashboard | ⬜ |
+| Presentation | ⬜ |
 
 ---
 
-# 📈 Portfolio Progress
+## 📌 Goals
 
-| Component | Status |
-|-----------|--------|
-|GitHub Repository|✅|
-|Blog|✅|
-|Articles|🟡|
-|Projects|⬜|
-|Dashboard|⬜|
-|Presentation|⬜|
+Pada akhir program, diharapkan mampu:
 
----
-
-# 📑 Documentation
-
-Repository ini akan diperbarui secara berkala selama pelaksanaan PKL.
-
-Dokumentasi meliputi:
-
-- Materi
-- Artikel
-- Source Code
-- SQL Query
-- Dataset
-- Dashboard
-- Presentasi
-- Project
-- Catatan Pembelajaran
+- Mengolah data end-to-end
+- Melakukan analisis data
+- Menyusun dashboard
+- Membuat laporan profesional
+- Membangun portfolio Data Analyst yang siap ditunjukkan ke recruiter
 
 ---
 
-# 📅 Timeline
+## 📫 Contact
 
-| Week | Activity |
-|------|----------|
-|1|Orientasi & Setup|
-|2|Data Collection|
-|3|Data Cleaning|
-|4|EDA|
-|5|SQL & Business Problem|
-|6|Visualization|
-|7|Final Project|
-|8|Presentation|
-
----
-
-# 📌 Goals
-
-Pada akhir program diharapkan mampu:
-
-- Mengolah data end-to-end.
-- Melakukan analisis data.
-- Menyusun dashboard.
-- Membuat laporan profesional.
-- Membangun portfolio Data Analyst.
-
----
-
-# 📫 Contact
-
-GitHub :
-https://github.com/username
-
-Blog :
-https://username.blogspot.com/
-
-LinkedIn :
-Coming Soon
+- **GitHub:** [github.com/SitiFatimahNA](https://github.com/SitiFatimahNA)
+- **LinkedIn:** [linkedin.com/in/siti-fatimah-nur-az-zahra-379872431](https://www.linkedin.com/in/siti-fatimah-nur-az-zahra-379872431/)
+- **Blog:** _(isi link blog asli di sini, atau hapus baris ini kalau belum ada)_
 
 ---
 
 <div align="center">
 
-### ⭐ Thank you for visiting my repository!
+### ⭐ Terima kasih sudah mengunjungi repository ini!
 
 *"Keep Learning, Keep Building, Keep Growing."*
 
