@@ -53,11 +53,11 @@ Tujuan repository ini:
 | 1 | Orientasi Industri, Setup GitHub & Tools, Menulis Artikel | ✅ Selesai |
 | 2 | Data Collection | ✅ Selesai |
 | 3–4 | Data Understanding, Data Cleaning & Preparation | ✅ Selesai |
-| 5 | Business Problem, SQL Analysis | ⬜ Belum |
-| 6 | Data Visualization, Dashboard | ⬜ Belum |
+| 5 | Business Problem, SQL Analysis | ✅ Selesai |
+| 6 | Data Visualization, Dashboard | ✅ Selesai |
 | 7 | Exploratory Data Analysis (Advanced) | ✅ Selesai |
 | 8–9 | Problem Solving | ✅ Selesai |
-| Final | Final Project & Presentation | ⬜ Belum |
+| Final | Final Project & Presentation | ✅ Selesai |
 
 > Catatan: sesuaikan tabel ini setiap minggu agar tetap mencerminkan progres folder yang sebenarnya ada di repo.
 
