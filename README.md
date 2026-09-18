@@ -1,15 +1,37 @@
-# 👋 Halo, Saya Siti Fatimah Nur Az-zahra
+<div align="center">
 
-Junior Data Analyst | Program Simulasi Industri Data Analyst — Angkatan 2
-PT Edusoft Center Teknologi
+# 📊 Data Analyst Roadmap — Siti Fatimah Nur Az-zahra
+
+**Saya membagikan perjalanan 12 minggu (Fase 1) saya menjadi Junior Data Analyst melalui Program Simulasi Industri Data Analyst di PT Edusoft Center Teknologi.**
 
 <img src="https://img.shields.io/badge/Program-Data%20Analyst-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Fase%201-Selesai-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Fase%202-Mulai%20Jan%202027-lightgrey?style=for-the-badge">
 
+</div>
+
 ---
 
-## 👩‍💻 Tentang Saya
+**Data Analytics** adalah proses eksplorasi dan analisis data untuk menemukan pola tersembunyi, tren, korelasi, dan insight berharga guna mendukung pengambilan keputusan bisnis. Repository ini adalah dokumentasi perjalanan saya mempelajari kompetensi tersebut secara end-to-end — dari Git & database, SQL, data cleaning, exploratory data analysis, problem solving, hingga final project dan portofolio.
+
+---
+
+## ⚙️ Technologies Used
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+---
+
+## 👩‍💻 About Me
 
 | | |
 |---|---|
@@ -17,119 +39,74 @@ PT Edusoft Center Teknologi
 | **Sekolah** | SMK Negeri 6 Surakarta |
 | **Program Keahlian** | Rekayasa Perangkat Lunak (RPL) |
 | **Role** | Junior Data Analyst |
-| **Periode Magang** | 22 Juni 2026 – 19 September 2026 (Fase 1) |
+| **Periode** | 22 Juni 2026 – 19 September 2026 (Fase 1 dari 2) |
 
 ---
 
-## 📊 Tentang Proyek Ini
+## 🚀 Featured Project
 
-Repository ini mendokumentasikan perjalanan saya selama **12 minggu (Fase 1)** dalam **Program Simulasi Industri Data Analyst** di PT Edusoft Center Teknologi — mempelajari data analysis dari dasar (Git, SQL, data cleaning) hingga proyek end-to-end (Final Project: Marketing Campaign Analysis).
-
-Program magang ini berdurasi 6 bulan yang dibagi menjadi 2 fase:
-- **Fase 1:** 22 Juni 2026 – 19 September 2026 ✅ *(selesai)*
-- **Fase 2:** mulai sekitar Januari 2027
-
-**Final Project Dataset:** ifood_df.csv (data pelanggan & marketing campaign)
-**Topik Bisnis Final Project:** Marketing Campaign Analysis
-**Tools:** Python, SQL, Microsoft Excel, Git
+`Marketing Campaign Analysis` 📊 — Final Project Fase 1, menganalisis efektivitas marketing campaign berdasarkan data 2.021 pelanggan, mengidentifikasi bahwa customer dengan recency rendah dan tanpa anak jauh lebih responsif, lengkap dengan dashboard interaktif dan rekomendasi bisnis.
+📁 [Lihat Project](./reports) · 🎥 [Video Dokumentasi](https://www.youtube.com/watch?v=PY1Uyx_O37Y)
 
 ---
 
-## 🗂 Struktur Repository
+## 🗂 Repository Structure
 
 | Folder | Isi |
 | ------ | --- |
-| `notebooks/` | Jupyter notebook per tahap analisis (data understanding, cleaning, EDA, final analysis) |
+| `notebooks/` | Jupyter notebook per tahap analisis |
 | `sql/` | Query SQL latihan & analisis bisnis |
 | `reports/` | Laporan analisis dan slide presentasi |
 | `dashboard/` | Screenshot dan link dashboard |
-| `docs/` | Dokumentasi tambahan dan catatan mingguan (`weekly_notes/`) |
-| `data/` | Dataset (raw & processed) — **tidak di-push ke GitHub**, lihat cara download di bawah |
+| `docs/` | Dokumentasi dan catatan mingguan (`weekly_notes/`) |
+| `data/` | Dataset raw & processed — *tidak di-push ke GitHub, lihat cara download di bawah* |
 
-> Sesuai panduan program, folder `data/` masuk `.gitignore` karena file dataset di-backup terpisah ke Google Drive, bukan ke GitHub.
-
----
-
-## 📥 Cara Download Dataset
-
-**Final Project — Marketing Campaign Analysis:**
-1. Dataset: `ifood_df.csv`
-2. Simpan ke folder: `data/raw/`
-3. Hasil cleaning otomatis tersimpan di: `data/processed/`
+**Cara Download Dataset (Final Project):** simpan `ifood_df.csv` ke folder `data/raw/`.
 
 ---
 
-## 📈 Progress Mingguan (Fase 1)
+## 📅 Timeline
 
-- [x] **W1** — Setup Git, GitHub & Project Management (`Panduan_Git_ProjectManagement`)
-- [x] **W2–W4** — Belajar Basis Data & SQL (Part 1–10) + Kuis
-- [x] **W5** — Data Cleaning & Preparation
-- [x] **W6–W7** — Exploratory Data Analysis (Dasar & Lanjutan)
-- [x] **W8–W9** — Problem Solving & Business Question
-- [x] **W10** — Reporting & Data Storytelling
-- [x] **W11–W12** — Final Project & Portfolio: **Marketing Campaign Analysis** ✅
-- [ ] **Fase 2** (mulai ±Januari 2027) — lanjutan program
-
----
-
-## ⭐ Final Project: Marketing Campaign Analysis
-
-Project akhir Fase 1 yang mengintegrasikan seluruh proses analisis data end-to-end.
-
-| Item | Link/Keterangan |
-|---|---|
-| 🎥 **Video Dokumentasi** | [Tonton di YouTube](https://www.youtube.com/watch?v=PY1Uyx_O37Y) |
-| 📁 **Folder Project** | [`/reports/final-project`](./reports) |
-| 📊 **Dataset** | ifood_df.csv (2.021 baris setelah cleaning, 39 kolom) |
-
-**Ringkasan singkat:**
-Menganalisis efektivitas marketing campaign berdasarkan data pelanggan, menemukan bahwa customer dengan recency rendah (baru bertransaksi) dan tanpa anak jauh lebih responsif terhadap campaign, serta mengidentifikasi kesenjangan performa yang lebar antar-campaign historis.
-
-**Deliverables:**
-- ✅ Project Charter
-- ✅ Data Cleaning Log
-- ✅ EDA Report (11 visualisasi + insight)
-- ✅ Root Cause Analysis & Recommendation Matrix
-- ✅ Dashboard Interaktif (Excel)
-- ✅ Final Analysis Report
-- ✅ Presentation Deck
-- ✅ Portfolio Summary
+| **Minggu 📆** | **Materi/Tugas yang Dikerjakan ⏰** | **Output 🔗** |
+|---|---|---|
+| W1 | Setup **Git & Project Management** — struktur repo, workflow commit harian, sinkronisasi Google Drive | `README.md`, `.gitignore` ✅ |
+| W2–W4 | Belajar **Basis Data & SQL** (RDBMS, struktur database, SELECT, LIMIT, JOIN, agregasi) — 10 bagian materi + kuis | `sql/` notebooks & quiz ✅ |
+| W5 | **Data Cleaning & Preparation** — audit data, missing value, duplicate, standardisasi format, feature engineering | Clean Dataset, Cleaning Log ✅ |
+| W6 | **EDA Dasar** — statistik deskriptif, analisis univariate & bivariate, correlation matrix | Statistical Summary, EDA Notebook ✅ |
+| W7 | **EDA Lanjutan** — trend analysis, segmentasi, outlier & pattern analysis, dashboard sederhana | Dashboard, Insight Report ✅ |
+| W8 | **Business Question & Problem Identification** — problem statement, business question, KPI definition, problem tree | Root Cause Analysis, Problem Tree ✅ |
+| W9 | **Problem Solving & Recommendation** — root cause mendalam, alternative solutions, data-driven recommendation, business case interview | Final Business Case ✅ |
+| W10 | **Reporting & Data Storytelling** — struktur laporan profesional, visualisasi untuk reporting, framework Situation-Complication-Resolution | Analysis Report, Data Story ✅ |
+| W11–W12 | **Final Project & Portfolio** — `Marketing Campaign Analysis` end-to-end (Project Charter → Dashboard → Presentation → Portfolio) | [Lihat Project](./reports) ✅ |
+| Fase 2 | *(mulai ±Januari 2027)* | ⬜ |
 
 ---
 
-## 🛠 Skills
+## 📈 Kompetensi yang Dicapai
 
-**Data**
-Data Collection · Data Cleaning · Data Preparation · Exploratory Data Analysis · Data Visualization
-
-**Database**
-SQL (RDBMS: MySQL, PostgreSQL)
-
-**Programming**
-Python (Pandas, Matplotlib, Seaborn)
-
-**Visualization**
-Excel Dashboard · Power BI · Looker Studio
-
-**Version Control**
-Git · GitHub
-
-**Project Management**
-Reproducible workflow · Daily commit · Sprint mingguan
+- ✅ Mengolah data end-to-end menggunakan Python & SQL
+- ✅ Membersihkan dan mempersiapkan data untuk analisis
+- ✅ Melakukan Exploratory Data Analysis dan menghasilkan insight
+- ✅ Menyusun business question, KPI, dan root cause analysis
+- ✅ Membangun dashboard interaktif untuk stakeholder
+- ✅ Menyampaikan hasil analisis melalui laporan dan presentasi profesional
+- ✅ Mengelola project menggunakan Git dengan workflow reproducible
 
 ---
 
-## 📫 Contact
+## 📫 You Can Reach Me
 
-- **GitHub:** [github.com/SitiFatimahNA](https://github.com/SitiFatimahNA)
-- **LinkedIn:** [linkedin.com/in/siti-fatimah-nur-az-zahra-379872431](https://www.linkedin.com/in/siti-fatimah-nur-az-zahra-379872431/)
+<div align="left">
+<a href="https://github.com/SitiFatimahNA"><img src="https://img.shields.io/badge/GitHub-SitiFatimahNA-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/siti-fatimah-nur-az-zahra-379872431/"><img src="https://img.shields.io/badge/LinkedIn-Siti%20Fatimah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Terima kasih sudah mengunjungi repository ini!
-
 *"Keep Learning, Keep Building, Keep Growing."*
+
+⭐ Terima kasih sudah mengunjungi repository ini!
 
 </div>
